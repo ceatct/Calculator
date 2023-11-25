@@ -1,9 +1,5 @@
-# Calculator
-
-EN
-
-Calculator app built on MVVM architecture and layout based on Jetpack Compose
-
-UA
-
-Додаток калькулятор, побудований на архітектурі MVVM та з версткою на основі Jetpack Compose
+Practice in jetpack compose with the implementation of a calculator application.
+Technology Stack:
+- The application lifecycle
+- Compose UI
+- Lifecycle and compose libraries
